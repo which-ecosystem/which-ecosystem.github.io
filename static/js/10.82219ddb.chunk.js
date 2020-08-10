@@ -1,2 +1,0 @@
-(this.webpackJsonpwhich=this.webpackJsonpwhich||[]).push([[10],{365:function(t,e,n){"use strict";n.r(e);var r=n(0),a=n.n(r),c=n(100),i=n(50),s=Object(c.a)((function(t){return{root:{marginTop:t.spacing(25),textAlign:"center"}}}));e.default=function(){var t=s();return a.a.createElement(i.a,{variant:"h4",className:t.root},"Sorry, this page is being constructed yet.")}}}]);
-//# sourceMappingURL=10.82219ddb.chunk.js.map
