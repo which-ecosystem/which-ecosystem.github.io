@@ -1,2 +1,0 @@
-(this.webpackJsonpwhich=this.webpackJsonpwhich||[]).push([[15],{443:function(t,e,a){"use strict";a.r(e);var n=a(0),i=a.n(n),r=a(60),c=a(49),s=Object(r.a)((function(t){return{root:{marginTop:t.spacing(16)}}}));e.default=function(){var t=s();return i.a.createElement("div",{className:t.root},i.a.createElement(c.a,{variant:"construction",message:"We are building this page. Stay tuned."}))}}}]);
-//# sourceMappingURL=15.f96cc36a.chunk.js.map
